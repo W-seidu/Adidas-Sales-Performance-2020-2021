@@ -1,4 +1,4 @@
-# Adidas-Sales-Performance-2020-2021
+# Evaluating Adidas Sales Performance: 2020-2021 Trends and Insights
 
 ## Table of Contents
 - [Project Background](#project-background)
@@ -85,7 +85,7 @@ This table holds information about the products sold by Adidas. Key columns:
 
 The `product_id` column connects to the Sales table, supporting product-level analysis of revenue and profit.
 
-# INSIGHTS DEEP DIVE
+# Inights Deep Dive
 ### a. Overall Performance and Patterns
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
@@ -118,7 +118,7 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
 
-# RECOMMENDATIONS
+# Recommendations
 
 Drawing from the insights in the previous section, we came up with the following recommendations:
 
