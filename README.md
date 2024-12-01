@@ -22,7 +22,7 @@
 ## Project Background
 Adidas, a German athletic apparel and footwear corporation operating globally, aims to improve its sales performance in the United States. They intend to maximize their sales from the US because it represents an epicenter in the global athletic apparel and footwear market and a critical growth area for the company.
 
-# Objectives
+## Objectives
 In this project, I partnered with the Adidas global sales team to analyze the company’s sales data for 2020 and 2021 to achieve the following objectives:
 - **Identify the top contributors (products, regions, and sales methods) to sales revenue and operating profit:** This will allow Adidas to allocate resources to high-performing contributors to maximize profitability and strengthen its market share.
 - **Identify permanent changes in consumption habits caused by the pandemic:** Understanding these changes will enable Adidas to adapt its sales strategies and product offerings to align with evolving customer needs and preferences.
@@ -35,7 +35,7 @@ The entity relationship diagram (ERD) of the database is as follows:
 
 ![ERD Diagram](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Adidas_ERD.png)
 
-# Database Schema Overview
+## Database Schema Overview
 This database schema represents a sales data model for Adidas, consisting of five interconnected tables. Each table plays a role in organizing and linking different aspects of the data for analysis:
 
 ### Sales Table
@@ -85,12 +85,11 @@ This table holds information about the products sold by Adidas. Key columns:
 
 The `product_id` column connects to the Sales table, supporting product-level analysis of revenue and profit.
 
-# Inights Deep Dive
+## Inights Deep Dive
 ### a. Overall Performance and Patterns
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
 - Sales fell consistently in the second quarter of 2020. This fall is not unusual, as these were the hardest-hitting months of the pandemic, characterized by lockdowns, restricted movement, and temporary closures of physical stores. Consumer spending patterns shifted significantly during this time, with many prioritizing essential goods over discretionary purchases like footwear and apparel.
-- In 2020 and 2021, total sales and operating profits consistently rose in the third quarter and then declined in the last quarter. The rise in the third quarter can be attributed to back-to-school and fall shopping, an important period when families purchase footwear and apparel for students. The last quarter fall is unusual as holiday seasons usually drive retail sales. The global sales team should further examine this pattern and seek ways to solve any problem discovered. More details on this will be in the recommendations section.
 
 ### b. Product Performance
 - Men’s street footwear was the highest-performing product in both 2020 and 2021. This product made $23 million in sales (494,000 units), representing a 24% contribution to 2021 total sales. It also earned a profit of $9 million, contributing 24% to total operating profit in the same year.
@@ -118,28 +117,21 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
 
-# Recommendations
-
+## Recommendations
 Drawing from the insights in the previous section, we came up with the following recommendations:
 
-### a. Address Declines in the Last Quarter of the Year
-The last quarter of 2020 and 2021 saw a steep decline. This trend is unusual, as holiday seasons drive retail sales. The following strategies can solve this problem:
-- Conduct a comprehensive consumer behavior analysis in the last quarter (Q4) of 2020 and 2021, focusing on missed opportunities during the holiday season. Of course, we could have done this analysis, but the scope of the data provided is inadequate. We will need more information on customer demographics, conversion rates from holiday-specific ads, and the performance of Black Friday and other sales campaigns in the last quarter, among other things.
-- Use the information from the analysis to design improved promotional activities and targeted campaigns during Black Friday, Cyber Monday, and Christmas.
-- Introduce holiday-exclusive collections or bundles to drive sales.
-
-### b. Redefine Product Strategy for Women’s Athletic Footwear
+### a. Redefine Product Strategy for Women’s Athletic Footwear
 The recurring poor performance of Women’s athletic footwear signals a possible lack of attention to the marketing of the product. The product is niched in two respects. First, it is a female product, and second, it is an athletic product. We therefore recommend marketing it as a niche product by following these strategies:
 - Launch surveys or focus groups using female athletes as respondents to understand consumer dissatisfaction or lack of interest in the product.
 - Using the research result, reassess the product design and marketing of Women’s Athletic Footwear to align better with female preferences (e.g., comfort, style, or anything the research pinpoints).
 - Introduce influencer-led campaigns targeting female athletes or fitness enthusiasts to boost product visibility.
 
-### c. Leverage Stable Product Performance
+### b. Leverage Stable Product Performance
 Men’s street footwear and women’s apparel have consistently delivered excellent sales and operating profit performance. Most times, keeping the flag flying is better than reinventing the wheel. Therefore, we recommend leveraging these products by adopting these strategies:
 - Invest in non-disruptive innovation to maintain consumer interest in these products (e.g., incorporating eco-friendly materials in design and packaging). “Non-disruptive” in this context means innovations that enhance or augment the value of existing offerings rather than replacing them.
 - Develop activewear lines tailored for different fitness trends (e.g., yoga, running, gym workouts) to appeal to diverse consumer needs. This development will be particularly effective for women’s apparel.
 
-### d. Make Walmart Great Again
+### c. Make Walmart Great Again
 Walmart was the lowest-grossing Adidas retailer in 2021. Therefore, we need to make them great again. Don’t mind us. Of course, we know that Walmart is already great. They made over $500 billion in sales in 2021, making them the highest-grossing retailer in the US that year. The question is, why did they fail to sustain that performance in selling Adidas products? And how do we fix that? We suggest a partnership with Walmart to:
 - Evaluate their product placement strategies for Adidas products.
 - Launch joint campaigns focusing on seasonal promotions (e.g., back-to-school, Black Friday, holiday deals) and featuring Adidas products prominently in circulars and online ads.
@@ -147,18 +139,18 @@ Walmart was the lowest-grossing Adidas retailer in 2021. Therefore, we need to m
 
 **Note:** For this partnership to work, we should emphasize a mutually beneficial relationship that provides value to both parties.
 
-### e. Address Midwest Underperformance
+### d. Address Midwest Underperformance
 The Midwest region has been the lowest contributor to sales despite having a good retail presence and a relatively young population. The following strategies can help in improving sales performance in the Midwest:
 - Launch targeted marketing campaigns tailored to Midwestern consumers, highlighting affordability and value.
 - Leverage loyalty programs or regional discounts to incentivize purchases in the region.
 
-### f. Strengthen Online Channels
+### e. Strengthen Online Channels
 With online sales leading the way, continue investing in:
 - User-friendly website and app enhancements. Investing in enhancing user experience on online channels is the key here.
 - Targeted digital marketing campaigns through social media and search engines.
 - Personalization tools for recommending products based on browsing history or preferences.
 
-### g. Optimize Other Sales Channels
+### f. Optimize Other Sales Channels
 - To address the decline in in-store sales, transform stores into "experience hubs" where customers can try on products, customize designs, and experience the brand.
 - Use data analytics to identify low-performing stores for potential closure and redirect investments into high-potential outlets.
 - Scale outlet presence and introduce additional discount events to maintain consumer interest in outlets.
