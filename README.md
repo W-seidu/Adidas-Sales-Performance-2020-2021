@@ -28,7 +28,21 @@ In this project, I partnered with the Adidas global sales team to analyze the co
 - **Identify permanent changes in consumption habits caused by the pandemic:** Understanding these changes will enable Adidas to adapt its sales strategies and product offerings to align with evolving customer needs and preferences.
 - **Pinpoint the least contributors to sales and operating profits, suggesting reasons for their poor performance and recommending strategies for improvement:** By addressing underperforming dimensions, Adidas can optimize its product portfolio and inventory management to increase profitability.
 
-# Data Structure and Overview
+## Project Deliverables  
+This project provides three key deliverables:  
+**Clean Sales Dataset**  
+A refined dataset containing cleaned, structured, and validated sales data for 2020 and 2021. This will ensure accuracy and consistency of the data used for the analysis. The clean dataset can be found here.
+
+**Relational Database**  
+A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
+
+**Interactive Visualization Dashboard**  
+A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. Here's the dashboard:
+<iframe title="Adidas Sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8aa5dbb5-0902-497c-bcaf-b4d7906ac412&autoAuth=true&ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042" frameborder="0" allowFullScreen="true"></iframe>
+
+These deliverables collectively enable robust analysis and visualization of Adidas' sales performance, supporting strategic planning and decision-making.
+
+## Data Structure and Overview
 
 The original data was in an Excel file comprising 9,642 rows and 12 columns. After cleaning and normalizing the data using Excel, I created a database for easy data storage and retrieval during the project.
 The entity relationship diagram (ERD) of the database is as follows:
@@ -107,12 +121,12 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this: 
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="600" height="324">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="550" height="250">
   <p><small>2020 Products Ranking by sales</small></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="576" height="324">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="550" height="250">
   <p><small>2021 Products Ranking by sales</small></p>
 </div>
 
@@ -130,6 +144,16 @@ You can interact with this table to get more information in the [dashboard](http
 - The western region accounts for the largest portion of total sales and profits out of the five regions, contributing 27% to total sales revenue and 26% to operating profit in 2021. This is similar to its performance in 2020, where it had the highest sales volume, revenue, and operating profit.
 - The Midwest region contributed the least to sales, contributing 17% to total sales revenue and 18% to operating profit in 2021. This region also had the lowest performance in terms of total sales and operating profit in 2020.
 - This poor performance is not due to a lack of retail presence in the region. The Midwest has more retail presence than the South and Southeast regions. It is also not due to low population, as the Midwest has a much higher population than the Northeast, which had the second-highest sales in 2021. The Midwest requires more attention for these reasons.
+
+<div align="center">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_regional_performance.png" alt="2020 Ranking" width="550" height="250">
+  <p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
+</div>
+
+<div align="center">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Regional_Performance.png" alt="2021 Ranking" width="550" height="250">
+  <p><small>2021 Regional Ranking by Sales and Operating Profits</small></p>
+</div>
 
 ### e. Sales Channel Performance
 - In 2021, most sales came from online channels, with online sales making $40 million, constituting 42% of total sales. Additionally, online sales earned $17 million profit, contributing 45% to total operating profit.
