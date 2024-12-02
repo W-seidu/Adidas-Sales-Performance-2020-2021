@@ -107,11 +107,13 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this: 
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="600" height="300">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="500" height="300">
+  <p><small>2020 Products Ranking by sales</small></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="600" height="300">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="500" height="300">
+  <p><small>2021 Products Ranking by sales</small></p>
 </div>
 
   As seen in the table above, all products maintain the same position in both years. Although this stability demonstrates product loyalty and resilience to external factors (COVID-19 in 2020), it also shows that much attention has not been given to lower-ranking products.
@@ -121,6 +123,8 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - Foot Locker’s consistency in delivering excellent sales performance is no surprise. After all, the US is its biggest market and where it has its strongest store presence.
 - On the other hand, Walmart performed very poorly in 2021. It had the lowest sales and operating profit for the year, making $6 million in sales and $2 million in operating profits. These low figures contributed 6% to total sales and 5% to operating profits.
 - The fact that Walmart contributed 21% to total sales and 22% to operating profit in 2020 despite the pandemic signals a possible issue. More on this will be in the recommendations section.
+![Retailers table](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Retailers_table.png)
+You can interact with this table to get more information in the [dashboard](https://app.powerbi.com/links/z4HM5RVSqM?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare&bookmarkGuid=21cf58a2-c2df-411d-8320-6b326e881ab2).
 
 ### d. Regional (and States) Performance
 - The western region accounts for the largest portion of total sales and profits out of the five regions, contributing 27% to total sales revenue and 26% to operating profit in 2021. This is similar to its performance in 2020, where it had the highest sales volume, revenue, and operating profit.
