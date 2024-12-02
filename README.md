@@ -90,13 +90,17 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
 - Sales fell consistently in the second quarter of 2020. This fall is not unusual, as these were the hardest-hitting months of the pandemic, characterized by lockdowns, restricted movement, and temporary closures of physical stores. Consumer spending patterns shifted significantly during this time, with many prioritizing essential goods over discretionary purchases like footwear and apparel.
-<img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Q2_decline.png" alt="Q2 decline" width="600" height="300">
+<div align="center">
+    <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Q2_decline.png" alt="Q2 decline" width="600" height="300">
+</div>
 
 ### b. Product Performance
 - Men’s street footwear was the highest-performing product in both 2020 and 2021. This product made $23 million in sales (494,000 units), representing a 24% contribution to 2021 total sales. It also earned a profit of $9 million, contributing 24% to total operating profit in the same year.
 - Women’s athletic footwear was the least-performing product in both 2020 and 2021. This product made $11 million in sales (64,000 units), contributing 11% to total sales revenue in 2021. It also earned a profit of $4 million, again, contributing 11% to total operating profits.
 - Using the two previous insights, one may be tempted to think that male products perform well and female products perform poorly. This is not the case. If we divided all products primarily into male and female products, in 2021, male products made $65 million, contributing 54% to total sales, while female products contributed made $55 million, contributing 46% to sales in the same year. 
-    ![Male vs. female products](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Male_vs_Female_Sales.png)
+<div align="center">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Male_vs_Female_Sales.png" alt="Male vs. female products" width="600" height="300">
+</div>
 - Using the same sub-division mentioned earlier, Women’s apparel had the highest sales revenue and operating profit among all female products, and was second highest in these metrics among all products, in both 2020 and 2021.
 - In 2021, Women’s apparel made a total sales of $19 million, contributing 20% to total sales. It also had an operating profit of $8 million, contributing 21% to total operating profits.
 - The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this:  
