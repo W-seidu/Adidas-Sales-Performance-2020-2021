@@ -43,6 +43,10 @@ This project provides three key deliverables:
 
 ## Data Structure and Overview
 The original data was in an Excel file comprising 9,642 rows and 12 columns. After cleaning and normalizing the data using Excel, I created a database for easy data storage and retrieval during the project.
+
+You can check the dirty dataset [here](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Sales_data_original.xlsx).
+You can see the clean dataset [here](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Sales_data_clean.xlsx).
+
 The entity relationship diagram (ERD) of the database is as follows:
 
 ![ERD Diagram](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Adidas_ERD.png)
