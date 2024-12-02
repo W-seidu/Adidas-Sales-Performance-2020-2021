@@ -90,7 +90,7 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
 - Sales fell consistently in the second quarter of 2020. This fall is not unusual, as these were the hardest-hitting months of the pandemic, characterized by lockdowns, restricted movement, and temporary closures of physical stores. Consumer spending patterns shifted significantly during this time, with many prioritizing essential goods over discretionary purchases like footwear and apparel.
-<img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Q2_decline.png" alt="Q2 decline" width="400" height="300">
+<img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Q2_decline.png" alt="Q2 decline" width="600" height="300">
 
 ### b. Product Performance
 - Men’s street footwear was the highest-performing product in both 2020 and 2021. This product made $23 million in sales (494,000 units), representing a 24% contribution to 2021 total sales. It also earned a profit of $9 million, contributing 24% to total operating profit in the same year.
