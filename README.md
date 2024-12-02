@@ -35,7 +35,7 @@ This project provides three key deliverables:
 
 - **Relational Database**: A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
 
-- **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here([interactive format](https://drive.google.com/file/d/1ck54aEsmG7IAd_yQAXpU-_TvaMVAhZy5/view?usp=sharing), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
+- **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here([interactive format](https://app.powerbi.com/links/z4HM5RVSqM?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare&bookmarkGuid=348541b1-4a4a-4c80-b2cc-0ee6ddcf9b06), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
 
 **Preview**:
 ![Visualization page one](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/final_Viz_1.png)
@@ -157,6 +157,7 @@ You can interact with this table to get more information in the [dashboard](http
 - In 2021, most sales came from online channels, with online sales making $40 million, constituting 42% of total sales. Additionally, online sales earned $17 million profit, contributing 45% to total operating profit.
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
+![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Sales_Channel_Analysis.png)
 
 ## Recommendations
 Drawing from the insights in the previous section, we came up with the following recommendations:
