@@ -147,7 +147,7 @@ You can interact with this table to get more information in the [dashboard](http
 
 <div align="center">
   <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_regional_performance.png" alt="2021 Ranking" width="550" height="300">
-  <p><small>2021 Regional Ranking by Sales and Operating Profits</small></p>
+  <p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
 </div>
 
 <div align="center">
