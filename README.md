@@ -5,6 +5,7 @@
 - [Objectives](#objectives)
 - [Data Structure and Overview](#data-structure-and-overview)
 - [Project Deliverables](#project-deliverables)
+- [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
   - [Overall Performance and Patterns](#overall-performance-and-patterns)
   - [Product Performance](#product-performance)
@@ -101,6 +102,9 @@ This table holds information about the products sold by Adidas. Key columns:
 
 The `product_id` column connects to the Sales table, supporting product-level analysis of revenue and profit.
 
+## Executive Summary
+Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with revenue tripling to $96 million and operating profits rising 322% to $38 million. Men’s street footwear and women’s apparel led product sales, while women’s athletic footwear consistently underperformed, indicating a need for targeted marketing efforts. Online sales surged, contributing 42% of total revenue, reflecting a shift in consumer purchasing habits, while in-store sales saw a decline. Foot Locker emerged as the top-performing retailer, while Walmart's contribution dropped sharply, necessitating a reassessment of strategies. Addressing regional disparities, such as underperformance in the Midwest, and leveraging online and outlet channels are key opportunities for sustained growth and improved market presence.
+
 ## Inights Deep Dive
 ### a. Overall Performance and Patterns
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
@@ -161,7 +165,8 @@ You can interact with this table to get more information in the [dashboard](http
 - In 2021, most sales came from online channels, with online sales making $40 million, constituting 42% of total sales. Additionally, online sales earned $17 million profit, contributing 45% to total operating profit.
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
-![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Sales_Channel_Analysis.png)
+
+![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/Images/Sales_Channel_Analysis.png)
 
 ## Recommendations
 Drawing from the insights in the previous section, we came up with the following recommendations:
@@ -200,3 +205,7 @@ With online sales leading the way, continue investing in:
 - To address the decline in in-store sales, transform stores into "experience hubs" where customers can try on products, customize designs, and experience the brand.
 - Use data analytics to identify low-performing stores for potential closure and redirect investments into high-potential outlets.
 - Scale outlet presence and introduce additional discount events to maintain consumer interest in outlets.
+
+## Feedback
+If you notice any errors, inaccuracies, or misrepresentations in my analysis, please feel free to share your feedback or concerns by emailing me at **[wahabeidu009@gmail.com](mailto:wahabeidu009@gmail.com)**.
+
