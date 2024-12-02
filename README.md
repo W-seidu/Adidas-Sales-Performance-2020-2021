@@ -145,10 +145,7 @@ You can interact with this table to get more information in the [dashboard](http
 - The Midwest region contributed the least to sales, contributing 17% to total sales revenue and 18% to operating profit in 2021. This region also had the lowest performance in terms of total sales and operating profit in 2020.
 - This poor performance is not due to a lack of retail presence in the region. The Midwest has more retail presence than the South and Southeast regions. It is also not due to low population, as the Midwest has a much higher population than the Northeast, which had the second-highest sales in 2021. The Midwest requires more attention for these reasons.
 
-<div align="center">
 ![2020 Ranking](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_regional_performance.png)
-<p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
-</div>
 
 <div align="center">
   <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Regional_Performance.png" alt="2021 Ranking" width="550" height="250">
