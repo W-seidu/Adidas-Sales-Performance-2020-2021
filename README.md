@@ -37,8 +37,8 @@ A refined dataset containing cleaned, structured, and validated sales data for 2
 A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
 
 **Interactive Visualization Dashboard**  
-A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. Here's the dashboard:
-<iframe title="Adidas Sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8aa5dbb5-0902-497c-bcaf-b4d7906ac412&autoAuth=true&ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042" frameborder="0" allowFullScreen="true"></iframe>
+A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here(interactive format, pdf format).
+Preview:
 
 These deliverables collectively enable robust analysis and visualization of Adidas' sales performance, supporting strategic planning and decision-making.
 
@@ -146,8 +146,8 @@ You can interact with this table to get more information in the [dashboard](http
 - This poor performance is not due to a lack of retail presence in the region. The Midwest has more retail presence than the South and Southeast regions. It is also not due to low population, as the Midwest has a much higher population than the Northeast, which had the second-highest sales in 2021. The Midwest requires more attention for these reasons.
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_regional_performance.png" alt="2020 Ranking" width="550" height="250">
-  <p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
+![2020 Ranking](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_regional_performance.png)
+<p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
 </div>
 
 <div align="center">
