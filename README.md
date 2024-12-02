@@ -4,6 +4,7 @@
 - [Project Background](#project-background)
 - [Objectives](#objectives)
 - [Data Structure and Overview](#data-structure-and-overview)
+- [Project Deliverables](#project-deliverables)
 - [Insights Deep Dive](#insights-deep-dive)
   - [Overall Performance and Patterns](#overall-performance-and-patterns)
   - [Product Performance](#product-performance)
@@ -30,14 +31,11 @@ In this project, I partnered with the Adidas global sales team to analyze the co
 
 ## Project Deliverables  
 This project provides three key deliverables:  
-**Clean Sales Dataset**  
-A refined dataset containing cleaned, structured, and validated sales data for 2020 and 2021. This will ensure accuracy and consistency of the data used for the analysis. The clean dataset can be found here.
+- **Clean Sales Dataset**: A refined dataset containing cleaned, structured, and validated sales data for 2020 and 2021. This will ensure accuracy and consistency of the data used for the analysis. The clean dataset can be found here.
 
-**Relational Database**  
-A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
+- **Relational Database**: A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
 
-**Interactive Visualization Dashboard**  
-A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here(interactive format, pdf format).
+- **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here(interactive format, pdf format).
 Preview:
 
 These deliverables collectively enable robust analysis and visualization of Adidas' sales performance, supporting strategic planning and decision-making.
@@ -121,12 +119,12 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this: 
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="550" height="250">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="600" height="250">
   <p><small>2020 Products Ranking by sales</small></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="550" height="250">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="600" height="250">
   <p><small>2021 Products Ranking by sales</small></p>
 </div>
 
