@@ -99,12 +99,21 @@ The `product_id` column connects to the Sales table, supporting product-level an
 - Women’s athletic footwear was the least-performing product in both 2020 and 2021. This product made $11 million in sales (64,000 units), contributing 11% to total sales revenue in 2021. It also earned a profit of $4 million, again, contributing 11% to total operating profits.
 - Using the two previous insights, one may be tempted to think that male products perform well and female products perform poorly. This is not the case. If we divided all products primarily into male and female products, in 2021, male products made $65 million, contributing 54% to total sales, while female products contributed made $55 million, contributing 46% to sales in the same year. 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Male_vs_Female_Sales.png" alt="Male vs. female products" width="600" height="300">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Male_vs_Female_Sales.png" alt="Male vs. female products" width="600" height="400">
 </div>
+
 - Using the same sub-division mentioned earlier, Women’s apparel had the highest sales revenue and operating profit among all female products, and was second highest in these metrics among all products, in both 2020 and 2021.
 - In 2021, Women’s apparel made a total sales of $19 million, contributing 20% to total sales. It also had an operating profit of $8 million, contributing 21% to total operating profits.
-- The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this:  
-  ![2020 Ranking](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png)  ![2021 Ranking](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png) 
+- The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this: 
+
+<div align="center">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2020_Products_Ranking.png" alt="2020 Ranking" width="600" height="300">
+</div>
+
+<div align="center">
+  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/2021_Products_Ranking.png" alt="2021 Ranking" width="600" height="300">
+</div>
+
   As seen in the table above, all products maintain the same position in both years. Although this stability demonstrates product loyalty and resilience to external factors (COVID-19 in 2020), it also shows that much attention has not been given to lower-ranking products.
 
 ### c. Retailer Performance
