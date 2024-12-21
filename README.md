@@ -7,19 +7,7 @@
 - [Project Deliverables](#project-deliverables)
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
-  - [Overall Performance and Patterns](#overall-performance-and-patterns)
-  - [Product Performance](#product-performance)
-  - [Retailer Performance](#retailer-performance)
-  - [Regional and State Performance](#regional-and-state-performance)
-  - [Sales Channel Performance](#sales-channel-performance)
 - [Recommendations](#recommendations)
-  - [Address Declines in the Last Quarter of the Year](#address-declines-in-the-last-quarter-of-the-year)
-  - [Redefine Product Strategy for Women’s Athletic Footwear](#redefine-product-strategy-for-womens-athletic-footwear)
-  - [Leverage Stable Product Performance](#leverage-stable-product-performance)
-  - [Make Walmart Great Again](#make-walmart-great-again)
-  - [Address Midwest Underperformance](#address-midwest-underperformance)
-  - [Strengthen Online Channels](#strengthen-online-channels)
-  - [Optimize Other Sales Channels](#optimize-other-sales-channels)
 
 ## Project Background
 Adidas, a German athletic apparel and footwear corporation operating globally, aims to improve its sales performance in the United States. They intend to maximize their sales from the US because it represents an epicenter in the global athletic apparel and footwear market and a critical growth area for the company.
@@ -105,7 +93,7 @@ The `product_id` column connects to the Sales table, supporting product-level an
 ## Executive Summary
 Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with revenue tripling to $96 million and operating profits rising 322% to $38 million. Men’s street footwear and women’s apparel led product sales, while women’s athletic footwear consistently underperformed, indicating a need for targeted marketing efforts. Online sales surged, contributing 42% of total revenue, reflecting a shift in consumer purchasing habits, while in-store sales saw a decline. Foot Locker emerged as the top-performing retailer, while Walmart's contribution dropped sharply, necessitating a reassessment of strategies. Addressing regional disparities, such as underperformance in the Midwest, and leveraging online and outlet channels are key opportunities for sustained growth and improved market presence.
 
-## Inights Deep Dive
+## Insights Deep Dive
 ### a. Overall Performance and Patterns
 - As expected, sales skyrocketed after the pandemic, landing at $96 million (460,000 units) in December 2021. This 300% jump from the previous sales of $24 million in 2020 signals an excellent post-pandemic recovery.
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
