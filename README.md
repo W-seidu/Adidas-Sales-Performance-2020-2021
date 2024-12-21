@@ -194,6 +194,5 @@ With online sales leading the way, continue investing in:
 - Use data analytics to identify low-performing stores for potential closure and redirect investments into high-potential outlets.
 - Scale outlet presence and introduce additional discount events to maintain consumer interest in outlets.
 
-## Feedback
-If you notice any errors, inaccuracies, or misrepresentations in my analysis, please feel free to share your feedback or concerns by emailing me at **[wahabeidu009@gmail.com](mailto:wahabeidu009@gmail.com)**.
+
 
