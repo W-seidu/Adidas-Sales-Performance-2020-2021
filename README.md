@@ -36,7 +36,7 @@ This project provides three key deliverables:
 
 - **Relational Database**: A structured database designed to store, query, and manage sales data effectively. This database supports complex queries and serves as the backend for the project. The query to build this database can be found here.
 
-- **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here([interactive format](https://app.powerbi.com/links/z4HM5RVSqM?ctid=5fe78ac1-1afe-4009-aa04-a71efb4a5042&pbi_source=linkShare&bookmarkGuid=348541b1-4a4a-4c80-b2cc-0ee6ddcf9b06), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
+- **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. It features drill-down capabilities, KPI metrics, and an intuitive design for stakeholders to explore data and make informed decisions. The dashboard can be downloaded here([interactive format](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
 
 **Preview**:
 ![Visualization page one](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_1.png)
