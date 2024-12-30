@@ -27,7 +27,9 @@ This project provides three key deliverables:
 - **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. The dashboard can be downloaded here([pbix format](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
 
 **Preview**:
+Page 1:
 ![Visualization page one](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_1.png)
+Page 2:
 ![Visualization page two](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_2.png)
 
 ## Data Structure and Overview
