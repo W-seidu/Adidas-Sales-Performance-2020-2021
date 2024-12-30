@@ -26,7 +26,7 @@ This project provides three key deliverables:
 
 - **Interactive Visualization Dashboard**: A dynamic Power BI dashboard showcasing insights such as sales trends, product performance comparisons, and regional and retailer contributions. The dashboard can be downloaded here([pbix format](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix), [pdf format](https://drive.google.com/file/d/1UQNBb0jpKX90HwQxS54VJq9ef2uFYNGQ/view?usp=sharing)).
 
-**Preview**:
+### Preview:
 Page 1:
 ![Visualization page one](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_1.png)
 Page 2:
@@ -156,7 +156,7 @@ You can interact with this table to get more information in the [dashboard](http
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
 
-![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/Images/Sales_Channel_Analysis.png)
+![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Sales_Channel_Analysis.png)
 
 ## Recommendations
 Drawing from the insights in the previous section, we came up with the following recommendations:
