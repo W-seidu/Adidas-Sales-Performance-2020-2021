@@ -1,6 +1,7 @@
 # Evaluating Adidas Sales Performance: 2020-2021 Trends and Insights
 
 ## Table of Contents
+- [Important Message](#important-message)
 - [Project Background](#project-background)
 - [Objectives](#objectives)
 - [Data Structure and Overview](#data-structure-and-overview)
@@ -8,6 +9,15 @@
 - [Executive Summary](#executive-summary)
 - [Insights Deep Dive](#insights-deep-dive)
 - [Recommendations](#recommendations)
+
+## Important Message
+Dear recruiter or curious repo snooper,
+
+Heads up! The images in this project might play hide-and-seek if you're on a Wi-Fi hotspot. Don't blame me—this one's on GitHub.
+
+The fix? Switch up your connection. A direct mobile connection should do the trick! Voilà, problem solved, and you're back on track.
+
+Now, go ahead and explore. I promise the rest of the project behaves better! 😄
 
 ## Project Background
 Adidas, a German athletic apparel and footwear corporation operating globally, aims to improve its sales performance in the United States. They intend to maximize their sales from the US because it represents an epicenter in the global athletic apparel and footwear market and a critical growth area for the company.
@@ -28,16 +38,13 @@ This project provides three key deliverables:
 
 ### Preview:
 Page 1:
-<p>
 
-![Visualization page one](.\Images\final_Viz_1.png)
+![Visualization page one](/Images/final_Viz_1.png)
 
-</p>
 Page 2:
-<p>
 
-![Visualization page two](.\Images\final_Viz_2.png)
-</p>
+![Visualization page two](/Images/final_Viz_2.png)
+
 
 ## Data Structure and Overview
 The original data was in an Excel file comprising 9,642 rows and 12 columns. After cleaning and normalizing the data using Excel, I created a database for easy data storage and retrieval during the project.
@@ -47,7 +54,7 @@ You can see the clean dataset [here](https://github.com/W-seidu/Adidas-Sales-Per
 
 The entity relationship diagram (ERD) of the database is as follows:
 
-![ERD Diagram](.\Images\Adidas_ERD.png)
+![ERD Diagram](/Images/Adidas_ERD.png)
 
 ## Database Schema Overview
 This database schema represents a sales data model for Adidas, consisting of five interconnected tables. Each table plays a role in organizing and linking different aspects of the data for analysis:
