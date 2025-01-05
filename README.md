@@ -28,9 +28,9 @@ This project provides three key deliverables:
 
 ### Preview:
 Page 1:
-![Visualization page one](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_1.png)
+![Visualization page one](/Images/final_Viz_1.png)
 Page 2:
-![Visualization page two](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/final_Viz_2.png)
+![Visualization page two](/Images/final_Viz_2.png)
 
 ## Data Structure and Overview
 The original data was in an Excel file comprising 9,642 rows and 12 columns. After cleaning and normalizing the data using Excel, I created a database for easy data storage and retrieval during the project.
@@ -40,7 +40,7 @@ You can see the clean dataset [here](https://github.com/W-seidu/Adidas-Sales-Per
 
 The entity relationship diagram (ERD) of the database is as follows:
 
-![ERD Diagram](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Adidas_ERD.png)
+![ERD Diagram](/Images/Adidas_ERD.png)
 
 ## Database Schema Overview
 This database schema represents a sales data model for Adidas, consisting of five interconnected tables. Each table plays a role in organizing and linking different aspects of the data for analysis:
@@ -101,7 +101,7 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - Operating profits followed a similar pattern, with a 322% increase, taking them from $9 million in 2020 to $38 million in 2021.
 - Sales fell consistently in the second quarter of 2020. This fall is not unusual, as these were the hardest-hitting months of the pandemic, characterized by lockdowns, restricted movement, and temporary closures of physical stores. Consumer spending patterns shifted significantly during this time, with many prioritizing essential goods over discretionary purchases like footwear and apparel.
 <div align="center">
-    <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Q2_decline.png" alt="Q2 decline" width="600" height="300">
+    <img src="/Images/Q2_decline.png" alt="Q2 decline" width="486" height="300">
 </div>
 
 ### b. Product Performance
@@ -109,7 +109,7 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - Women’s athletic footwear was the least-performing product in both 2020 and 2021. This product made $11 million in sales (64,000 units), contributing 11% to total sales revenue in 2021. It also earned a profit of $4 million, again, contributing 11% to total operating profits.
 - Using the two previous insights, one may be tempted to think that male products perform well and female products perform poorly. This is not the case. If we divided all products primarily into male and female products, in 2021, male products made $65 million, contributing 54% to total sales, while female products contributed made $55 million, contributing 46% to sales in the same year. 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Male_vs_Female_Sales.png" alt="Male vs. female products" width="600" height="400">
+  <img src="/Images/Male_vs_Female_Sales.png" alt="Male vs. female products" width="648" height="400">
 </div>
 
 - Using the same sub-division mentioned earlier, Women’s apparel had the highest sales revenue and operating profit among all female products, and was second highest in these metrics among all products, in both 2020 and 2021.
@@ -117,12 +117,12 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - The fact that men’s street footwear, women’s apparel, and women’s athletic footwear maintained the same position in 2020 and 2021 signals stability in consumer purchase behavior. The products ranking in 2020 and 2021 looks like this: 
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/2020_Products_Ranking.png" alt="2020 Ranking" width="600" height="250">
+  <img src="/Images/2020_Products_Ranking.png" alt="2020 Ranking" width="405" height="250">
   <p><small>2020 Products Ranking by sales</small></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/2021_Products_Ranking.png" alt="2021 Ranking" width="600" height="250">
+  <img src="/Images/2021_Products_Ranking.png" alt="2021 Ranking" width="405" height="250">
   <p><small>2021 Products Ranking by sales</small></p>
 </div>
 
@@ -133,7 +133,7 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - Foot Locker’s consistency in delivering excellent sales performance is no surprise. After all, the US is its biggest market and where it has its strongest store presence.
 - On the other hand, Walmart performed very poorly in 2021. It had the lowest sales and operating profit for the year, making $6 million in sales and $2 million in operating profits. These low figures contributed 6% to total sales and 5% to operating profits.
 - The fact that Walmart contributed 21% to total sales and 22% to operating profit in 2020 despite the pandemic signals a possible issue. More on this will be in the recommendations section.
-![Retailers table](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Retailers_table.png)
+![Retailers table](/Images/Retailers_table.png)
 You can interact with this table to get more information in the [dashboard](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix).
 
 ### d. Regional (and States) Performance
@@ -142,12 +142,12 @@ You can interact with this table to get more information in the [dashboard](http
 - This poor performance is not due to a lack of retail presence in the region. The Midwest has more retail presence than the South and Southeast regions. It is also not due to low population, as the Midwest has a much higher population than the Northeast, which had the second-highest sales in 2021. The Midwest requires more attention for these reasons.
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/2020_regional_performance.png" alt="2021 Ranking" width="550" height="300">
+  <img src="/Images/2020_regional_performance.png" alt="2021 Ranking" width="486" height="300">
   <p><small>2020 Regional Ranking by Sales and Operating Profits</small></p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/2021_Regional_Performance.png" alt="2021 Ranking" width="550" height="300">
+  <img src="/Images/2021_Regional_Performance.png" alt="2021 Ranking" width="486" height="300">
   <p><small>2021 Regional Ranking by Sales and Operating Profits</small></p>
 </div>
 
@@ -156,7 +156,7 @@ You can interact with this table to get more information in the [dashboard](http
 - Conversely, the stores' channel had the lowest sales in 2021, making $26 million. This method saw a sharp decline in contribution to total sales post-pandemic. It went from a 38% contribution to sales in 2020 to contributing 28% in 2021. This decline shows shifting consumer habits to online purchasing.
 - Outlet sales have shown resilience by being in at least second place when ranking sales channels according to total sales. In 2020, Outlet sales were the highest contributor to sales, making $10 million and contributing 42% to total sales. In 2021, it was the second-highest contributor, making $11 million and contributing 29% to total sales. This resilience shows that customers will always seek affordability and discount purchasing offered by outlets, even as their habits shift toward online shopping.
 
-![Sales Channel Analysis](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Images/Sales_Channel_Analysis.png)
+![Sales Channel Analysis](/Images/Sales_Channel_Analysis.png)
 
 ## Recommendations
 Drawing from the insights in the previous section, we came up with the following recommendations:
