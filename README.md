@@ -30,13 +30,13 @@ This project provides three key deliverables:
 Page 1:
 <p>
 
-![Visualization page one](./Images/final_Viz_1.png)
+![Visualization page one](.\Images\final_Viz_1.png)
 
 </p>
 Page 2:
 <p>
 
-![Visualization page two](./Images/final_Viz_2.png)
+![Visualization page two](.\Images\final_Viz_2.png)
 </p>
 
 ## Data Structure and Overview
@@ -47,7 +47,7 @@ You can see the clean dataset [here](https://github.com/W-seidu/Adidas-Sales-Per
 
 The entity relationship diagram (ERD) of the database is as follows:
 
-![ERD Diagram](./Images/Adidas_ERD.png)
+![ERD Diagram](.\Images\Adidas_ERD.png)
 
 ## Database Schema Overview
 This database schema represents a sales data model for Adidas, consisting of five interconnected tables. Each table plays a role in organizing and linking different aspects of the data for analysis:
@@ -140,7 +140,9 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - Foot Locker’s consistency in delivering excellent sales performance is no surprise. After all, the US is its biggest market and where it has its strongest store presence.
 - On the other hand, Walmart performed very poorly in 2021. It had the lowest sales and operating profit for the year, making $6 million in sales and $2 million in operating profits. These low figures contributed 6% to total sales and 5% to operating profits.
 - The fact that Walmart contributed 21% to total sales and 22% to operating profit in 2020 despite the pandemic signals a possible issue. More on this will be in the recommendations section.
-![Retailers table](/Images/Retailers_table.png)
+
+![Retailers table](.\Images\Retailers_table.png)
+
 You can interact with this table to get more information in the [dashboard](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix).
 
 ### d. Regional (and States) Performance
