@@ -28,9 +28,16 @@ This project provides three key deliverables:
 
 ### Preview:
 Page 1:
+<p>
+
 ![Visualization page one](/Images/final_Viz_1.png)
+
+</p>
 Page 2:
+<p>
+
 ![Visualization page two](/Images/final_Viz_2.png)
+</p>
 
 ## Data Structure and Overview
 The original data was in an Excel file comprising 9,642 rows and 12 columns. After cleaning and normalizing the data using Excel, I created a database for easy data storage and retrieval during the project.
