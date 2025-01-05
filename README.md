@@ -30,13 +30,13 @@ This project provides three key deliverables:
 Page 1:
 <p>
 
-![Visualization page one](/Images/final_Viz_1.png)
+![Visualization page one](./Images/final_Viz_1.png)
 
 </p>
 Page 2:
 <p>
 
-![Visualization page two](/Images/final_Viz_2.png)
+![Visualization page two](./Images/final_Viz_2.png)
 </p>
 
 ## Data Structure and Overview
@@ -47,7 +47,7 @@ You can see the clean dataset [here](https://github.com/W-seidu/Adidas-Sales-Per
 
 The entity relationship diagram (ERD) of the database is as follows:
 
-![ERD Diagram](/Images/Adidas_ERD.png)
+![ERD Diagram](./Images/Adidas_ERD.png)
 
 ## Database Schema Overview
 This database schema represents a sales data model for Adidas, consisting of five interconnected tables. Each table plays a role in organizing and linking different aspects of the data for analysis:
