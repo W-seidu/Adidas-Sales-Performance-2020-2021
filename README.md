@@ -148,7 +148,7 @@ Adidas U.S. sales experienced a significant post-pandemic recovery in 2021, with
 - On the other hand, Walmart performed very poorly in 2021. It had the lowest sales and operating profit for the year, making $6 million in sales and $2 million in operating profits. These low figures contributed 6% to total sales and 5% to operating profits.
 - The fact that Walmart contributed 21% to total sales and 22% to operating profit in 2020 despite the pandemic signals a possible issue. More on this will be in the recommendations section.
 
-![Retailers table](.\Images\Retailers_table.png)
+![Retailers table](\Images\Retailers_table.png)
 
 You can interact with this table to get more information in the [dashboard](https://github.com/W-seidu/Adidas-Sales-Performance-2020-2021/blob/main/Data/Adidas%20Sales.pbix).
 
